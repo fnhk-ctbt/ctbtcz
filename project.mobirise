@@ -40,7 +40,8 @@
     ],
     "uniqCompNum": 3,
     "versionPublish": "5.5.2",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "imageResize": true
   },
   "pages": {
     "index.html": {
