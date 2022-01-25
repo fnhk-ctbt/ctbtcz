@@ -1731,8 +1731,8 @@ section.lazy-placeholder:after {
 }
 .cid-sVrjoPKoCS {
   padding-top: 90px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/mbr-1920x1080.jpg");
+  padding-bottom: 105px;
+  background-image: url("../../../assets/images/nvrh-bez-nzvu-2000x1000.png");
 }
 .cid-sVrjoPKoCS P {
   color: #767676;
@@ -1748,6 +1748,10 @@ section.lazy-placeholder:after {
 }
 .cid-sVvqMkPylO P {
   color: #767676;
+}
+.cid-sVvqMkPylO .mbr-text,
+.cid-sVvqMkPylO .mbr-section-btn {
+  color: #232323;
 }
 .cid-sVpFZjoJFD {
   padding-top: 15px;
@@ -1807,7 +1811,7 @@ section.lazy-placeholder:after {
 .cid-sVvzYV9wlh {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/nvrh-bez-nzvu-2-2000x1000.png");
 }
 .cid-sVvzYV9wlh .mbr-text {
   color: #767676;
@@ -1825,7 +1829,7 @@ section.lazy-placeholder:after {
 .cid-sVvuH96upG {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/nvrh-bez-nzvu-3-2000x1000.png");
 }
 .cid-sVvuH96upG .mbr-section-subtitle {
   color: #767676;
