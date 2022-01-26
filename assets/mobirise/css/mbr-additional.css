@@ -1741,6 +1741,9 @@ section.lazy-placeholder:after {
 .cid-sVrjoPKoCS .mbr-section-btn {
   color: #232323;
 }
+.cid-sVrjoPKoCS H1 {
+  color: #0f7699;
+}
 .cid-sVvqMkPylO {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -1777,7 +1780,7 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-sVpFZjoJFD .mbr-text {
-  color: #767676;
+  color: #232323;
   text-align: center;
 }
 .cid-sVpFZjoJFD .card-wrapper {
@@ -1809,13 +1812,17 @@ section.lazy-placeholder:after {
 .cid-sVvBM8q8lW P {
   color: #767676;
 }
+.cid-sVvBM8q8lW .mbr-text,
+.cid-sVvBM8q8lW .mbr-section-btn {
+  color: #232323;
+}
 .cid-sVvzYV9wlh {
   padding-top: 0px;
   padding-bottom: 0px;
   background-image: url("../../../assets/images/nvrh-bez-nzvu-2-2000x1000.png");
 }
 .cid-sVvzYV9wlh .mbr-text {
-  color: #767676;
+  color: #232323;
 }
 .cid-sVvzYV9wlh h4 {
   text-align: center;
@@ -1837,7 +1844,7 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/nvrh-bez-nzvu-3-2000x1000.png");
 }
 .cid-sVw38Uqx0X .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
 }
 .cid-sVw38Uqx0X .media-container-row {
   -webkit-flex-wrap: wrap;
