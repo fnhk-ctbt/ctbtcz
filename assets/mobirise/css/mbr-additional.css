@@ -5216,7 +5216,7 @@ section.lazy-placeholder:after {
 .cid-sVNkw3OgbI {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/nvrh-bez-nzvu-8-2000x1000.png");
+  background-color: #ffffff;
 }
 .cid-sVNkw3OgbI P {
   color: #767676;
@@ -5316,6 +5316,25 @@ section.lazy-placeholder:after {
 .cid-sVNkwaF5bG H2 {
   text-align: left;
   color: #cebfaf;
+}
+.cid-sWgQgEyD8t {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-sWgQgEyD8t .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-sWgQgEyD8t .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-sWgQgEyD8t .mbr-text {
+  color: #232323;
+  text-align: left;
 }
 .cid-sVNkwbqkIU {
   padding-top: 15px;
